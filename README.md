@@ -1,6 +1,6 @@
 📘 Interview Yodha – Project Report
 
-📄 FinalYearProjectAyush.pdf
+📄 **Project Report:** [FinalYearProjectAyush (1).pdf](./FinalYearProjectAyush%20(1).pdf)
 
 🎯 Interview Yodha
 
