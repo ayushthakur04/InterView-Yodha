@@ -1,6 +1,6 @@
 📘 Interview Yodha – Project Report
 
-📄 Final Year Project Report (PDF): View Full Project Report
+📄 FinalYearProjectAyush.pdf
 
 🎯 Interview Yodha
 
